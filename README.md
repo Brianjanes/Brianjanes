@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My name is Brian, I was a professional chef for over a decade and have recently graduated from the Concordia University Web Development Program!
+
 <!--
 **Brianjanes/Brianjanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
