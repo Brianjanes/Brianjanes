@@ -1,6 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-### My name is Brian, I was a professional chef for over a decade and have recently graduated from the Concordia University Web Development Program!
+I'm a dedicated professional with a background in culinary arts and a passion for web development. With a decade in the culinary world, I've mastered organization, time management, and effective communication. Transitioning to web development, I'm proficient in technologies like React and Node, driven by a commitment to innovation and collaboration. My unique blend of skills, from leadership to technical prowess, equips me to create impactful solutions that positively impact lives. I'm excited to contribute my expertise to projects that matter and promote positive change within the tech community.
+
+- 🔭 I’m currently working on an AI powerer srength coach web application
+- 🌱 I’m currently learning about Computer Science Fundamentals through the Harvard cs50 course.
+- 💬 Ask me about Magic: The Gathering!!
+- 📫 How to reach me: janes.brian@gmail.com
+
 
 <!--
 **Brianjanes/Brianjanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
