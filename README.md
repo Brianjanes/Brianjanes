@@ -5,7 +5,7 @@ I'm a dedicated professional with a background in culinary arts and a passion fo
 - 🔭 I’m currently working on an AI powered stength coach web application, and a password generator.
 - 🌱 I’m currently learning about Computer Science Fundamentals through the Harvard cs50 course, and I am enrolled in an AWS Solutions Architect course through Keyin College.
 - 💬 Ask me about Magic: The Gathering, or powerlifting!
-- 📫 How to reach me: janes.brian@gmail.com of visit <https://www.brianjanes.ca>
+- 📫 How to reach me: janes.brian@gmail.com or visit <https://www.brianjanes.ca>
 
 
 <!--
