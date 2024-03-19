@@ -2,9 +2,9 @@
 
 I'm a dedicated professional with a background in culinary arts and a passion for web development. With a decade in the culinary world, I've mastered organization, time management, and effective communication. Transitioning to web development, I'm proficient in technologies like React and Node, driven by a commitment to innovation and collaboration. My unique blend of skills, from leadership to technical prowess, equips me to create impactful solutions that positively impact lives. I'm excited to contribute my expertise to projects that matter and promote positive change within the tech community.
 
-- 🔭 I’m currently working on a Magic: the Gathering companion app.
-- 🌱 I’m currently learning about Computer Science Fundamentals through the Harvard cs50 course, and I am enrolled in the Software Developer program to begin in January 2024.
-- 💬 Ask me about Magic: The Gathering, or powerlifting!
+- 🔭 I’m currently working on a MTG stat collection app + school projects.
+- 🌱 I am currently enrolled in the Keyin College Software Developer program.
+- 💬 Ask me about competitive MTG, collecting data about MTG, my 2 ding dong dogs, or powerlifting!
 - 📫 How to reach me: janes.brian@gmail.com or visit <https://www.brianjanes.ca>
 
 
